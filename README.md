@@ -18,6 +18,20 @@ fashion-sales-analysis/
 
 Quick links: [SQL](./SQL) | [Python](./Python) | [Power BI](./PowerBI) | [Data](./data)
 
+### 🔗 Quick Links
+
+*📂 SQL Scripts*  
+- 📁 [2023 – Jan-Mar](sql/2023/jan-mar)  
+- 📁 [2023 – May-June](sql/2023/may-june)  
+- 📁 [2023 – Oct-Nov](sql/2023/oct-nov)  
+- 📁 [2024 – Jan-Mar](sql/2024/jan-mar)  
+- 📁 [2024 – May-June](sql/2024/may-june)  
+- 📁 [2024 – Oct-Nov](sql/2024/oct-nov)  
+
+*📊 Project Sections*  
+- 🐍 [Python Scripts](Python)  
+- 📊 [Power BI Dashboards](Power%20BI)  
+- 📁 [Data Samples](data)
 ---
 
 ## 📊 Project Highlights
