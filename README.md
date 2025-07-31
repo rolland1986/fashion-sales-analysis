@@ -22,10 +22,23 @@ Quick links: [SQL](./SQL) | [Python](./Python) | [Power BI](./PowerBI) | [Data](
 
 ## 📊 Project Highlights
 
-*SQL Analysis*
-- Top suppliers by sales and discount percentage  
-- Monthly comparisons (January vs March, May vs June, October vs November)  
-- Growth and decline percentage calculations per product  
+### 📊 SQL Analysis
+SQL scripts are organized by year and month pairs:
+
+- *2023*
+  - jan-march/ → Sales and discount analysis for Jan–Mar 2023
+  - may-june/ → Sales and discount analysis for May–Jun 2023
+  - oct-nov/ → Sales and discount analysis for Oct–Nov 2023
+- *2024*
+  - jan-march/ → Sales and discount analysis for Jan–Mar 2024
+  - may-june/ → Sales and discount analysis for May–Jun 2024
+  - oct-nov/ → Sales and discount analysis for Oct–Nov 2024
+
+*Key analyses:*
+1. Top suppliers by total sales and discount percentage  
+2. Top 10 products by sales value and quantity sold  
+3. Products with highest growth and decline percentages  
+4. Monthly comparisons (Jan vs Mar, May vs Jun, Oct vs Nov)  
 
 *Python Visualizations*
 - Bar charts for top product groups  
