@@ -40,8 +40,16 @@ Quick links: [SQL](./SQL) | [Python](./Python) | [Power BI](./PowerBI) | [Data](
 
 ## 📊 Sample Visualization
 
-(Add graphs later, e.g., bar chart of top product groups)
+Here are some key insights from the sales analysis project:
 
+### 1️⃣ Top 10 Products with Sales Decline (%)
+![Sales Decline](https://raw.githubusercontent.com/rolland1986/fashion-sales-analysis/refs/heads/main/images/Top%2010%20Products%20with%20Sales%20Decline%20(%25)%202023.png)
+
+### 2️⃣ Average Discount vs Sales Change (%)
+![Discount vs Sales Change](https://raw.githubusercontent.com/rolland1986/fashion-sales-analysis/refs/heads/main/images/average%20discount%20vs%20sales%20change%20%25%20(Jan%20vs%20Mar%202023).png)
+
+### 3️⃣ Top 10 Products with Highest Sales Growth (%)
+![Sales Growth](https://raw.githubusercontent.com/rolland1986/fashion-sales-analysis/refs/heads/main/images/top%2010%20products%20with%20highest%20sales%20growth%20(Jan%20vs%20Mar%202023).png)
 ---
 
 ## 🔹 Key Insight Example
