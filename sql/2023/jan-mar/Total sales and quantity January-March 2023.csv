@@ -1,0 +1,17 @@
+SELECT 
+  MONTHNAME(Date) AS month,
+  SUM(Net_price) AS total_sales
+FROM sales_2023
+WHERE Date BETWEEN '2023-01-01' AND '2023-03-31'
+  AND MONTH(Date) IN (1, 3)
+GROUP BY MONTHNAME(Date), MONTH(Date)
+ORDER BY MONTH(Date);
+
+SELECT 
+  MONTHNAME(Date) AS month,
+  SUM(Quantity) AS total_quantity
+FROM sales_2023
+WHERE Date BETWEEN '2023-01-01' AND '2023-03-31'
+  AND MONTH(Date) IN (1, 3)
+GROUP BY MONTHNAME(Date), MONTH(Date)
+ORDER BY MONTH(Date);
