@@ -60,6 +60,14 @@ The *Python notebooks* complement Power BI by:
 - Calculating YoY growth percentages and top-performing products
 - Exporting charts for LinkedIn and business reports
 
+### PowerPoint Presentations
+This folder contains professional presentations with conclusions and recommendations for:
+- January–March 2024
+- May–June 2024
+- October–November 2024
+
+Each presentation summarizes the SQL and Python analysis and is ready to share with stakeholders or clients.
+
 *Key analyses:*
 1. Top suppliers by total sales and discount percentage  
 2. Top 10 products by sales value and quantity sold  
