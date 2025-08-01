@@ -47,6 +47,18 @@ SQL scripts are organized by year and month pairs:
   - jan-march/ → Sales and discount analysis for Jan–Mar 2024
   - may-june/ → Sales and discount analysis for May–Jun 2024
   - oct-nov/ → Sales and discount analysis for Oct–Nov 2024
+ 
+### 🔹 Power BI
+The *Power BI dashboards* provide:
+- *Top 10 suppliers by total sales* (YoY comparison)
+- *Total sales & quantity* YoY for each period
+- Dynamic visual insights into supplier and product performance
+
+### 🐍 Python Analysis
+The *Python notebooks* complement Power BI by:
+- Performing sales trend analysis using *Pandas & Matplotlib*
+- Calculating YoY growth percentages and top-performing products
+- Exporting charts for LinkedIn and business reports
 
 *Key analyses:*
 1. Top suppliers by total sales and discount percentage  
@@ -79,15 +91,21 @@ Here are some key insights from the sales analysis project:
 ![Sales Growth](https://raw.githubusercontent.com/rolland1986/fashion-sales-analysis/refs/heads/main/images/top%2010%20products%20with%20highest%20sales%20growth%20(Jan%20vs%20Mar%202023).png)
 ---
 
-## 🔹 Key Insight Example
-
-> In *March 2024, the top 3 product groups accounted for **57% of total sales*,  
-> with a *12% increase* compared to January.
+### 🚀 Key Insights
+1. *Supplier shifts:* Major YoY changes, with some suppliers increasing sales by over 50% while others declined.
+2. *In-house production impact:* The largest contributor to total sales, but with visible YoY fluctuations.
+3. *Seasonal performance:* May-June shows significant differences compared to Jan-March due to seasonal trends.
 
 ---
 
 ## ✅ Next Steps
 
+- Add *SQL queries* used for the analysis.
+- Extend Python analysis to all 2023 & 2024 periods.
+- Update Power BI dashboards with interactive slicers.
 - Complete *year-over-year* comparison for 2023 vs 2024  
 - Upload *Power BI dashboard* preview screenshots  
 - Optimize Python visualizations for LinkedIn posts
+
+### 🏷️ Tags
+#DataAnalytics #Python #PowerBI #SQL #RetailAnalytics #SalesAnalysis #FashionIndustry
